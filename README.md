@@ -1,6 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2021/01/02/12/45/microchip-5881458_320.jpg" alt="Imagen de un código de programación">
-
-
+<img src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Tecno">
 ## Hi there 👋
 
 - 👩‍🎓💼 I’m currently learning and immersing myself in the world of programming with an inexhaustible passion
