@@ -3,13 +3,13 @@
 ## Hi there 👋
 
 
--👩‍💻 About me
+- About me
 
 - 👩‍🎓💼 I’m currently learning and immersing myself in the world of programming with an inexhaustible passion
 - 🤔 I am doing a Backend Developer training at Factoria 5 ( https://factoriaf5.org/ )
   
- 💢 Stacks
-
+ - Stacks
+   
  🛠 Tools
  
  - Visual Basic
