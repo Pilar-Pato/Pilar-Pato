@@ -2,6 +2,10 @@
 
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Learning-green?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Training-Backend%20Developer-orange?style=for-the-badge" alt="Training">
+</p>
 
 - About me
 
